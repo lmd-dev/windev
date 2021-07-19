@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Aventurier		TAR	90	nouvelle taille enregistrement : 90
+Aventurier	IDRace	RUB+		IDRace est une nouvelle clé
+Race		NFI		nouveau fichier
+Contrainte_Race_Aventurier		NWL	Race (IDRace) et Aventurier (IDRace)	Nouvelle liaison entre les fichiers Race (IDRace) et Aventurier (IDRace)

@@ -1,0 +1,5 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Aventurier		TAR	98	nouvelle taille enregistrement : 98
+Aventurier	IDGuilde	RUB+		IDGuilde est une nouvelle clé
+Guilde		NFI		nouveau fichier
+Contrainte_Guilde_Aventurier		NWL	Guilde (IDGuilde) et Aventurier (IDGuilde)	Nouvelle liaison entre les fichiers Guilde (IDGuilde) et Aventurier (IDGuilde)
